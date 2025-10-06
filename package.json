@@ -113,10 +113,10 @@
   "homepage": "https://pdf-lib.js.org",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ParadoxAi/pdf-lib"
+    "url": "git+https://github.com/mattrglobal/pdf-lib"
   },
   "bugs": {
-    "url": "https://github.com/ParadoxAi/pdf-lib/issues"
+    "url": "https://github.com/mattrglobal/pdf-lib/issues"
   },
   "keywords": [
     "pdf-lib",

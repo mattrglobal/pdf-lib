@@ -1503,6 +1503,7 @@ See this [StackOverflow answer](https://stackoverflow.com/a/48268766) for a grea
 
 [MIT](LICENSE.md)
 
-## Patched with latest form from 
+## Forks
 
-https://github.com/ParadoxAi/pdf-lib
+https://github.com/Hopding/pdf-lib -> original fork
+https://github.com/ParadoxAi/pdf-lib -> sync with this fork with latest deps patch 2025-10-07
