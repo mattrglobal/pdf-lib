@@ -1502,3 +1502,7 @@ See this [StackOverflow answer](https://stackoverflow.com/a/48268766) for a grea
 ## License
 
 [MIT](LICENSE.md)
+
+## Patched with latest form from 
+
+https://github.com/ParadoxAi/pdf-lib
