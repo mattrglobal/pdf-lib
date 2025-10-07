@@ -1502,3 +1502,8 @@ See this [StackOverflow answer](https://stackoverflow.com/a/48268766) for a grea
 ## License
 
 [MIT](LICENSE.md)
+
+## Forks
+
+https://github.com/Hopding/pdf-lib -> original fork
+https://github.com/ParadoxAi/pdf-lib -> sync with this fork with latest deps patch 2025-10-07
