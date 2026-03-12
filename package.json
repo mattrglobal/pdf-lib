@@ -131,5 +131,8 @@
   "directories": {
     "doc": "docs",
     "test": "tests"
+  },
+  "resolutions": {
+    "**/**/serialize-javascript": "7.0.4"
   }
 }
