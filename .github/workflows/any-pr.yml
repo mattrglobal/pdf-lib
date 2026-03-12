@@ -1,8 +1,4 @@
 name: any-pr
-
-permissions:
-  contents: read
-
 on: [pull_request]
 
 concurrency:
@@ -13,6 +9,10 @@ jobs:
   test:
     name: Test
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pull-requests: write
 
     strategy:
       matrix:
