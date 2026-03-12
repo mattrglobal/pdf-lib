@@ -1,5 +1,8 @@
 name: any-pr
 
+permissions:
+  contents: read
+
 on: [pull_request]
 
 concurrency:
