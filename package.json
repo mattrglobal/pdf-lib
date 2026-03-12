@@ -99,7 +99,7 @@
     "node-fetch": "^2.6.7",
     "prettier": "^2.8.8",
     "rimraf": "^3.0.2",
-    "rollup": "2.79.2",
+    "rollup": "2.80.0",
     "rollup-plugin-terser": "^6.1.0",
     "ttypescript": "^1.5.15",
     "typescript": "^3.9.5"
