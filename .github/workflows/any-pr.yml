@@ -1,13 +1,10 @@
-name: CI
+name: any-pr
 
-on:
-  pull_request:
-    branches:
-      - '**'
-  push:
-    branches:
-      - master
-      - main
+on: [pull_request]
+
+concurrency:
+  group: ${{ github.head_ref }}
+  cancel-in-progress: true
 
 jobs:
   test:
